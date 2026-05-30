@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+*.db
+*.joblib
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Logs
+*.log
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,80 @@
+{
+  "languages": {
+    "Python": ["python", "py3"],
+    "JavaScript": ["javascript", "js", "ecmascript"],
+    "TypeScript": ["typescript"],
+    "Java": ["java"],
+    "Go": ["golang", "go-lang"],
+    "Rust": ["rust", "rustlang"],
+    "C++": ["c\\+\\+", "cpp"],
+    "C#": ["c#", "csharp", "\\.net"],
+    "Ruby": ["ruby", "rails"],
+    "PHP": ["php"],
+    "Swift": ["swift", "ios swift"],
+    "Kotlin": ["kotlin"],
+    "Scala": ["scala"],
+    "SQL": ["sql"]
+  },
+  "frontend": {
+    "React": ["react.js", "reactjs", "react"],
+    "Next.js": ["next.js", "nextjs"],
+    "Vue": ["vue.js", "vuejs", "vue"],
+    "Angular": ["angular"],
+    "Svelte": ["svelte"],
+    "HTML": ["html5", "html"],
+    "CSS": ["css3", "css"],
+    "Tailwind": ["tailwind", "tailwindcss"]
+  },
+  "backend": {
+    "Node.js": ["node.js", "nodejs", "node"],
+    "Django": ["django"],
+    "Flask": ["flask"],
+    "FastAPI": ["fastapi"],
+    "Express": ["express.js", "expressjs", "express"],
+    "Spring": ["spring boot", "springboot", "spring"],
+    "GraphQL": ["graphql"],
+    "REST": ["rest api", "restful"]
+  },
+  "data": {
+    "Pandas": ["pandas"],
+    "NumPy": ["numpy"],
+    "Spark": ["apache spark", "spark"],
+    "Airflow": ["airflow"],
+    "dbt": ["dbt"],
+    "Snowflake": ["snowflake"],
+    "BigQuery": ["bigquery", "big query"],
+    "Databricks": ["databricks"],
+    "Kafka": ["kafka"],
+    "ETL": ["etl"]
+  },
+  "ml": {
+    "TensorFlow": ["tensorflow", "tf2"],
+    "PyTorch": ["pytorch", "torch"],
+    "scikit-learn": ["scikit-learn", "sklearn"],
+    "Keras": ["keras"],
+    "HuggingFace": ["hugging face", "huggingface", "transformers"],
+    "LangChain": ["langchain"],
+    "LLM": ["llm", "large language model"],
+    "NLP": ["nlp", "natural language processing"],
+    "Computer Vision": ["computer vision", "cv "],
+    "MLOps": ["mlops"]
+  },
+  "cloud": {
+    "AWS": ["aws", "amazon web services"],
+    "Azure": ["azure", "microsoft azure"],
+    "GCP": ["gcp", "google cloud"],
+    "Docker": ["docker"],
+    "Kubernetes": ["kubernetes", "k8s"],
+    "Terraform": ["terraform"],
+    "CI/CD": ["ci/cd", "continuous integration"],
+    "Linux": ["linux", "unix"]
+  },
+  "databases": {
+    "PostgreSQL": ["postgresql", "postgres"],
+    "MySQL": ["mysql"],
+    "MongoDB": ["mongodb", "mongo"],
+    "Redis": ["redis"],
+    "Elasticsearch": ["elasticsearch", "elastic search"],
+    "DynamoDB": ["dynamodb"]
+  }
+}
